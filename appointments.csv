@@ -1,0 +1,21 @@
+appointment_id,scheduled_date,appointment_date,patient_id,patient_gender,patient_dob,doctor_id,doctor_name,department,city,show_status,visit_duration_min
+A001,2025-01-01,2025-01-05,P1001,F,1988-02-14,D01,Dr. Mehta,Cardiology,Bengaluru,Show,30
+A002,2025-01-02,2025-01-08,P1002,M,1975-07-22,D02,Dr. Rao,Orthopedics,Chennai,No-Show,
+A003,2025-01-03,2025-01-05,P1003,F,2005-10-10,D03,Dr. Singh,Pediatrics,Hyderabad,Show,25
+A004,2025-01-04,2025-01-10,P1004,M,1969-12-01,D01,Dr. Mehta,Cardiology,Bengaluru,Show,40
+A005,2025-01-05,2025-01-07,P1005,F,1999-03-30,D04,Dr. Iyer,ENT,Mumbai,No-Show,
+A006,2025-01-06,2025-01-06,P1006,M,1983-09-17,D02,Dr. Rao,Orthopedics,Chennai,Show,20
+A007,2025-01-06,2025-01-09,P1007,F,1958-11-05,D05,Dr. Kapoor,Neurology,Pune,Show,35
+A008,2025-01-07,2025-01-15,P1008,F,2012-04-25,D03,Dr. Singh,Pediatrics,Hyderabad,No-Show,
+A009,2025-01-08,2025-01-12,P1009,M,1990-06-12,D04,Dr. Iyer,ENT,Mumbai,Show,18
+A010,2025-01-09,2025-01-11,P1010,F,1978-08-08,D06,Dr. Das,General,Bengaluru,Show,22
+A011,2025-01-10,2025-01-16,P1011,M,1986-01-19,D06,Dr. Das,General,Bengaluru,No-Show,
+A012,2025-01-11,2025-01-14,P1012,F,1962-05-02,D05,Dr. Kapoor,Neurology,Pune,Show,28
+A013,2025-01-12,2025-01-12,P1013,M,2001-07-01,D02,Dr. Rao,Orthopedics,Chennai,Show,15
+A014,2025-01-13,2025-01-18,P1014,F,1996-02-02,D01,Dr. Mehta,Cardiology,Bengaluru,No-Show,
+A015,2025-01-14,2025-01-17,P1015,M,2010-10-20,D03,Dr. Singh,Pediatrics,Hyderabad,Show,26
+A016,2025-01-15,2025-01-20,P1016,F,1984-03-11,D04,Dr. Iyer,ENT,Mumbai,Show,19
+A017,2025-01-16,2025-01-19,P1017,M,1972-12-30,D05,Dr. Kapoor,Neurology,Pune,No-Show,
+A018,2025-01-17,2025-01-21,P1018,F,1993-09-09,D06,Dr. Das,General,Bengaluru,Show,24
+A019,2025-01-18,2025-01-22,P1019,M,2007-01-28,D03,Dr. Singh,Pediatrics,Hyderabad,Show,27
+A020,2025-01-19,2025-01-24,P1020,F,1981-04-14,D02,Dr. Rao,Orthopedics,Chennai,Show,33
